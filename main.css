@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.ota{
+    margin:;
+}
+.bola{
+    background-color: greenyellow;
+    width: 600px;
+    height: 300px;
+    text-align: center;
+    display: flex;
+}
+.bola1{
+    background-color: pink;
+    width: 215px;
+    height: 100px;
+    text-align: center;
+    display: flex;
+}
